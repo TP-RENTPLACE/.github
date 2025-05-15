@@ -12,6 +12,11 @@
 [Client (PWA)](http://rentplace.online/) \
 [Admin-panel (Web)](http://admin.rentplace.online/)
 
+### Данные входа для тестового пользователя
+
+Почта: ```testadmin@gmail.com```  
+Код с почты: ```12345```
+
 ## Сервисы
 
 [Figma](https://www.figma.com/design/dUHhGwhEmFBRIUlClh8XHL/Rentplace?node-id=0-1&t=1RZol45soexWSl4u-1) \
