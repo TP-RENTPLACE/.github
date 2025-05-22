@@ -9,8 +9,8 @@
 * [Беликов Илья](https://github.com/belikov3k) - QA-инженер
 
 ## Rentplace
-[Client (PWA)](http://rentplace.online/email) \
-[Admin-panel (Web)](http://admin.rentplace.online/)
+[Client (PWA)](http://rentplace.online/) \
+[Admin-panel (Web)](http://admin.rentplace.online/email)
 
 ### Данные входа для тестового пользователя
 
